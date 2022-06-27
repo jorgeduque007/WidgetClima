@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WidgetClima/static/css/main.51476919.css",
+    "main.js": "/WidgetClima/static/js/main.ef25f65b.js",
+    "static/js/787.03800182.chunk.js": "/WidgetClima/static/js/787.03800182.chunk.js",
+    "index.html": "/WidgetClima/index.html",
+    "main.51476919.css.map": "/WidgetClima/static/css/main.51476919.css.map",
+    "main.ef25f65b.js.map": "/WidgetClima/static/js/main.ef25f65b.js.map",
+    "787.03800182.chunk.js.map": "/WidgetClima/static/js/787.03800182.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51476919.css",
+    "static/js/main.ef25f65b.js"
+  ]
+}
